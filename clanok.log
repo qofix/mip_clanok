@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.10.6)  6 OCT 2026 12:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.10.6)  6 OCT 2026 15:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -113,8 +113,111 @@ File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen150
 \Gin@req@width=\dimen151
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
-\Urlmuskip=\muskip17
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen152
+\captionmargin=\dimen153
+\caption@leftmargin=\dimen154
+\caption@rightmargin=\dimen155
+\caption@width=\dimen156
+\caption@indent=\dimen157
+\caption@parindent=\dimen158
+\caption@hangindent=\dimen159
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count286
+\c@continuedfloat=\count287
+)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count288
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count289
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen160
+\WF@size=\dimen161
+\c@WF@wrappedlines=\count290
+\WF@box=\box53
+\WF@everypar=\toks20
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2025/07/09 v2.17z AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen162
+))
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen163
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count291
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count292
+\leftroot@=\count293
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count294
+\DOTSCASE@=\count295
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box54
+\strutbox@=\box55
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen164
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count296
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count297
+\dotsspace@=\muskip17
+\c@parentequation=\count298
+\dspbrk@lvl=\count299
+\tag@help=\toks22
+\row@=\count300
+\column@=\count301
+\maxfields@=\count302
+\andhelp@=\toks23
+\eqnshift@=\dimen165
+\alignsep@=\dimen166
+\tagshift@=\dimen167
+\tagwidth@=\dimen168
+\totwidth@=\dimen169
+\lineht@=\dimen170
+\@envbody=\toks24
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
@@ -163,19 +266,19 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count286
+\c@section@level=\count303
 ) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count287
+\etb@tempcnta=\count304
 )
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.st
 y
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\@linkdim=\dimen152
-\Hy@linkcounter=\count288
-\Hy@pagecounter=\count289
+\@linkdim=\dimen171
+\Hy@linkcounter=\count305
+\Hy@pagecounter=\count306
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -184,7 +287,7 @@ Now handling font encoding PD1 ...
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count290
+\Hy@SavedSpaceFactor=\count307
 
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
@@ -198,9 +301,9 @@ Package hyperref Info: Plain pages OFF on input line 4210.
 Package hyperref Info: Backreferencing OFF on input line 4215.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4462.
-\c@Hy@tempcnt=\count291
+\c@Hy@tempcnt=\count308
 LaTeX Info: Redefining \url on input line 4801.
-\XeTeXLinkMargin=\dimen153
+\XeTeXLinkMargin=\dimen172
 
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -210,9 +313,9 @@ sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count292
-\Field@Width=\dimen154
-\Fld@charsize=\dimen155
+\Fld@menulength=\count309
+\Field@Width=\dimen173
+\Fld@charsize=\dimen174
 Package hyperref Info: Hyper figures OFF on input line 6078.
 Package hyperref Info: Link nesting OFF on input line 6083.
 Package hyperref Info: Hyper index ON on input line 6086.
@@ -220,16 +323,16 @@ Package hyperref Info: backreferencing OFF on input line 6093.
 Package hyperref Info: Link coloring OFF on input line 6098.
 Package hyperref Info: Link coloring with OCG OFF on input line 6103.
 Package hyperref Info: PDF/A mode OFF on input line 6108.
-\Hy@abspage=\count293
-\c@Item=\count294
-\c@Hfootnote=\count295
+\Hy@abspage=\count310
+\c@Item=\count311
+\c@Hfootnote=\count312
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
-\Fld@listcount=\count296
-\c@bookmark@seq@number=\count297
+\Fld@listcount=\count313
+\c@bookmark@seq@number=\count314
 
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfile
 check.sty
@@ -242,7 +345,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 84.
 )
-\Hy@SectionHShift=\skip51
+\Hy@SectionHShift=\skip54
 )
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/cite\cite.sty
 LaTeX Info: Redefining \cite on input line 302.
@@ -252,48 +355,48 @@ Package: cite 2015/02/27  v 5.5
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
 ex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count298
+\l__color_backend_stack_int=\count315
+) (clanok.aux
+Package babel Info: 'slovak' activates 'slovak' shorthands.
+(babel)             Reported on input line 14.
 )
-No file clanok.aux.
 \openout1 = `clanok.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for IL2/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-Package babel Info: 'slovak' activates 'slovak' shorthands.
-(babel)             Reported on input line 30.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for IL2/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
 
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
 i
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count299
-\scratchdimen=\dimen156
-\scratchbox=\box53
-\nofMPsegments=\count300
-\nofMParguments=\count301
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count302
-\MPscratchDim=\dimen157
-\MPnumerator=\count303
-\makeMPintoPDFobject=\count304
-\everyMPtoPDFconversion=\toks21
+\scratchcounter=\count316
+\scratchdimen=\dimen175
+\scratchbox=\box56
+\nofMPsegments=\count317
+\nofMParguments=\count318
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count319
+\MPscratchDim=\dimen176
+\MPnumerator=\count320
+\makeMPintoPDFobject=\count321
+\everyMPtoPDFconversion=\toks27
 )
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
 se.sty
@@ -305,70 +408,117 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 g
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 30.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring OFF on input line 33.
+ (clanok.out) (clanok.out)
 \@outlinefile=\write3
 \openout3 = `clanok.out'.
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 33.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 33.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 33.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 33.
 LaTeX Font Info:    Trying to load font information for IL2+cmtt on input line 
-33.
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/cslatex/base\il2cmtt.fd
+36.
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/cslatex/base\il2cmtt.fd
 File: il2cmtt.fd 1997/08/20 CSLaTeX font definitions
 )
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 33.
+<diagram1.png, id=40, 200.75pt x 301.125pt>
+File: diagram1.png Graphic file (type png)
+<use diagram1.png>
+Package pdftex.def Info: diagram1.png  used on input line 61.
+(pdftex.def)             Requested size: 316.39862pt x 474.66953pt.
+<logo_fiit.png, id=42, 188.20313pt x 70.76437pt>
+File: logo_fiit.png Graphic file (type png)
+<use logo_fiit.png>
+Package pdftex.def Info: logo_fiit.png  used on input line 69.
+(pdftex.def)             Requested size: 66.30067pt x 24.92986pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]\IL2/cmr/m/n/10 Obr. 2: |Logo
+ []
 
 
-LaTeX Warning: Reference `nejaka' on page 1 undefined on input line 45.
+LaTeX Warning: Reference `fig:logo_fiit' on page 1 undefined on input line 74.
 
 
-LaTeX Warning: Reference `dolezita' on page 1 undefined on input line 46.
+Underfull \hbox (badness 7851) in paragraph at lines 74--75
+\IL2/cmr/m/n/10 STU (Obr. []), ktoré je
+ []
 
 
-LaTeX Warning: Reference `dolezitejsia' on page 1 undefined on input line 46.
+Underfull \hbox (badness 2698) in paragraph at lines 74--75
+\IL2/cmr/m/n/10 ob-te-kané tex-tom. Ob-te-ka-nie
+ []
 
 
-LaTeX Warning: Reference `zaver' on page 1 undefined on input line 47.
+Underfull \hbox (badness 4242) in paragraph at lines 74--75
+\IL2/cmr/m/n/10 tex-tom je u¾i-to-èný ná-stroj
+ []
 
 
-LaTeX Warning: Reference `f:rozhod' on page 1 undefined on input line 53.
+LaTeX Warning: Citation `Coplien:MPD' on page 1 undefined on input line 82.
 
 
-LaTeX Warning: Reference `ina:nejake' on page 1 undefined on input line 67.
-
-
-LaTeX Warning: Reference `ina:nejake' on page 1 undefined on input line 67.
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 67.
-
-LaTeX Warning: Citation `Coplien:MPD' on page 1 undefined on input line 69.
-
-
-LaTeX Warning: Citation `Czarnecki:Staged' on page 1 undefined on input line 69
+LaTeX Warning: Citation `Czarnecki:Staged' on page 1 undefined on input line 82
 .
 
 
 LaTeX Warning: Citation `Czarnecki:Progress' on page 1 undefined on input line 
-69.
+82.
 
 
-LaTeX Warning: Citation `PLP-Framework' on page 1 undefined on input line 69.
+LaTeX Warning: Citation `PLP-Framework' on page 1 undefined on input line 82.
 
-[1
+File: diagram1.png Graphic file (type png)
+<use diagram1.png>
+Package pdftex.def Info: diagram1.png  used on input line 92.
+(pdftex.def)             Requested size: 106.07906pt x 159.12221pt.
+<diagram2.png, id=46, 331.2375pt x 361.35pt>
+File: diagram2.png Graphic file (type png)
+<use diagram2.png>
+Package pdftex.def Info: diagram2.png  used on input line 99.
+(pdftex.def)             Requested size: 106.07906pt x 115.72258pt.
 
-{C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Underfull \hbox (badness 1681) in paragraph at lines 133--134
+ []\IL2/cmr/bx/n/10 Veµmi dô-le-¾itá po-známka.[] \IL2/cmr/m/n/10 Nie-kedy je p
+o-
+ []
+
+
+LaTeX Warning: Reference `fig:rotated' on page 1 undefined on input line 140.
+
+[1{C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+
+
+ <./logo_fiit.png>]
+File: diagram1.png Graphic file (type png)
+<use diagram1.png>
+Package pdftex.def Info: diagram1.png  used on input line 144.
+(pdftex.def)             Requested size: 88.39865pt x 132.60107pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--151
+[]\IL2/cmr/bx/n/14.4 Matice a ma-te-ma-tické
+ []
+
+
+Overfull \hbox (52.64798pt too wide) detected at line 171
+ []$[] \OT1/cmr/m/n/10 + (\OML/cmm/m/it/10 a[] \OT1/cmr/m/n/10 + 5\OML/cmm/m/it
+/10 d\OT1/cmr/m/n/10 ) + (\OML/cmm/m/it/10 a[] \OT1/cmr/m/n/10 + 6\OML/cmm/m/it
+/10 d\OT1/cmr/m/n/10 ) + [] + (\OML/cmm/m/it/10 a[] \OT1/cmr/m/n/10 + (\OML/cmm
+/m/it/10 n \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 d\OT1/cmr/m/
+n/10 ) = []$ []  
+ []
+
 No file clanok.bbl.
 Package babel Info: 'slovak' activates 'slovak' shorthands.
-(babel)             Reported on input line 124.
-[2] (clanok.aux)
+(babel)             Reported on input line 187.
+[2
+
+] [3 <./diagram1.png>] [4
+
+
+ <./diagram2.png>] (clanok.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
@@ -386,40 +536,49 @@ Package rerunfilecheck Warning: File `clanok.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `clanok.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  DCA731DA2FC82593BB099E907EB500F3;982.
+(rerunfilecheck)             Before: DCA731DA2FC82593BB099E907EB500F3;982
+(rerunfilecheck)             After:  8513CDD042E0C9A559D4E90218D3F9F3;995.
  ) 
 Here is how much of TeX's memory you used:
- 10190 strings out of 467871
- 160545 string characters out of 5418860
- 585434 words of memory out of 5000000
- 38943 multiletter control sequences out of 15000+600000
- 641059 words of font info for 71 fonts, out of 8000000 for 9000
+ 12447 strings out of 467871
+ 199775 string characters out of 5418860
+ 631719 words of memory out of 5000000
+ 41155 multiletter control sequences out of 15000+600000
+ 641834 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,79p,342b,562s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1
-000.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi6
-00\csbx12.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfont
-s/dpi600\cssl10.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/public/
-csfonts/dpi600\csr6.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/pub
-lic/csfonts/dpi600\csr8.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour
-/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/l
-jfour/public/csfonts/dpi600\csti10.pk> <C:\Users\user\AppData\Local\MiKTeX\font
-s/pk/ljfour/public/csfonts/dpi600\csr7.pk> <C:\Users\user\AppData\Local\MiKTeX\
-fonts/pk/ljfour/public/csfonts/dpi600\cstt10.pk> <C:\Users\user\AppData\Local\M
-iKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx10.pk> <C:\Users\user\AppData\L
-ocal\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr10.pk> <C:\Users\user\AppD
-ata\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi720\csbx12.pk> <C:\Users\use
-r\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx9.pk> <C:\User
-s\user\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt9.pk> <C:
-\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr9.pk>
- <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr1
-2.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tc
-rm1200.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/d
-pi600\csr17.pk>
-Output written on clanok.pdf (2 pages, 106159 bytes).
+ 75i,9n,79p,418b,540s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{figure.1} has been referenced but does not exist, r
+eplaced by a fixed one
+
+ <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt
+10.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi60
+0\cssl10.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts
+/dpi600\csr6.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/e
+c/dpi600\tcrm1000.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/publi
+c/csfonts/dpi600\csbx12.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour
+/public/csfonts/dpi600\csti10.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/
+ljfour/public/csfonts/dpi600\csr7.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts
+/pk/ljfour/public/csfonts/dpi600\csr8.pk> <C:\Users\user\AppData\Local\MiKTeX\f
+onts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\user\AppData\Local\MiK
+TeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx10.pk> <C:\Users\user\AppData\Loc
+al\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr10.pk> <C:\Users\user\AppDat
+a\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi720\csbx12.pk> <C:\Users\user\
+AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt9.pk> <C:\Users\
+user\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr9.pk> <C:\Us
+ers\user\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr12.pk> <
+C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.
+pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\c
+sr17.pk><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmex10.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmmi10.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmmi7.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/user/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/user/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on clanok.pdf (4 pages, 191030 bytes).
 PDF statistics:
- 378 PDF objects out of 1000 (max. 8388607)
- 18 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 482 PDF objects out of 1000 (max. 8388607)
+ 27 named destinations out of 1000 (max. 500000)
+ 80 words of extra memory for PDF output out of 10000 (max. 10000000)
 
